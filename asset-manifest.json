@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abdelrazekrizk/myfirstapp/static/css/main.f855e6bc.css",
+    "main.js": "/abdelrazekrizk/myfirstapp/static/js/main.01131759.js",
+    "static/js/453.c4bd9193.chunk.js": "/abdelrazekrizk/myfirstapp/static/js/453.c4bd9193.chunk.js",
+    "static/media/logo.svg": "/abdelrazekrizk/myfirstapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/abdelrazekrizk/myfirstapp/index.html",
+    "main.f855e6bc.css.map": "/abdelrazekrizk/myfirstapp/static/css/main.f855e6bc.css.map",
+    "main.01131759.js.map": "/abdelrazekrizk/myfirstapp/static/js/main.01131759.js.map",
+    "453.c4bd9193.chunk.js.map": "/abdelrazekrizk/myfirstapp/static/js/453.c4bd9193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.01131759.js"
+  ]
+}
